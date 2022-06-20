@@ -7,4 +7,4 @@
 🇬🇧 [Code Styling Essentials](https://medium.com/@jeanydevriez/code-styling-essentials-12fdc9e17fae)
 
 ## Article 3
-🇳🇱 [Reflectie Weekly Nerd](https://medium.com/@jeanydevriez/reflectie-2155f25fee24)
+🇳🇱 [Reflectie Weekly Nerd]([https://medium.com/@jeanydevriez/reflectie-2155f25fee24](https://medium.com/@jeanydevriez/reflectie-weekly-nerd-1f19abf0457e))
